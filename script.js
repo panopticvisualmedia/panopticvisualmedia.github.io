@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	alert('Project designed by Cody M. Holden for Technical Marketing, Spring 2016. Please view at full-screen as mobile responsiveness is underdevelopment.');
+	alert('Project designed by Cody M. Holden for Technical Marketing, Spring 2016. Please view at full-screen as mobile responsiveness is under development.');
 	
 	
 	
@@ -42,7 +42,6 @@ $(document).ready(function () {
     $(window).resize(function () {
         $('html,body').scrollTop(divs.eq(div).offset().top);
     });
-	
 	
 	
 });
